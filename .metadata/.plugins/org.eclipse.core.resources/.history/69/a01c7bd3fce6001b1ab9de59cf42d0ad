@@ -1,0 +1,9 @@
+package com.liskov;
+
+public class Car {
+
+	public void testAcceleration() {
+		System.out.println("Aceleration is very high");
+	}
+	
+}

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Technology Codes\SOLID Principles\.metadata\.plugins\org.eclipse.jdt.core
+2604447044.index
+4004584427.index

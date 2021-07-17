@@ -1,0 +1,8 @@
+package com.isp;
+
+public interface faxFunction {
+
+	public void tax();
+	public void internetFax();
+	
+}
